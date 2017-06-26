@@ -1,0 +1,5 @@
+c:\visual studio 2013\Projects\CSharpBase\CSharpBase\bin\Debug\CSharpBase.exe.config
+c:\visual studio 2013\Projects\CSharpBase\CSharpBase\bin\Debug\CSharpBase.exe
+c:\visual studio 2013\Projects\CSharpBase\CSharpBase\bin\Debug\CSharpBase.pdb
+c:\visual studio 2013\Projects\CSharpBase\CSharpBase\obj\Debug\CSharpBase.exe
+c:\visual studio 2013\Projects\CSharpBase\CSharpBase\obj\Debug\CSharpBase.pdb
